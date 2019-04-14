@@ -1,3 +1,6 @@
 {
-	"hello": "world"
+    "links": [
+        {"source": "The Police - Synchronicity I"},
+        {"target": "The Clash - Rock The Casbah"}
+    ]
 }
