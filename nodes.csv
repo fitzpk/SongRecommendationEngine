@@ -1,60 +1,1 @@
-,name,genre
-0,Guided By Voices,Lo-Fi
-1,The Rolling Stones,Rock
-2,Kanye West,Hip-Hop
-3,The Clash,Punk
-4,The Flaming Lips,Alternative Rock
-5,El-P,Hip-Hop
-6,The Police,New Wave
-7,Peter Frampton,Rock
-8,Gorillaz,Alternative Rock
-9,Guided By Voices,Lo-Fi
-10,Mobb Deep,Hip-Hop
-11,Mac Demarco,Indie Rock
-12,Metal Fingers,Hip-Hop
-13,Morcheeba,Pop
-14,New Order,New Wave
-15,The Rolling Stones,Rock
-16,The Police,New Wave
-17,The Clash,Punk
-18,Van Morrison,R&B
-19,The Who,Rock
-20,Wings,Rock
-21,Method Man,Hip-Hop
-22,Menomena,Indie Rock
-23,MF DOOM,Hip-Hop
-24,Modest Mouse,Indie Rock
-25,MGMT,Electronic
-26,Kanye West,Hip-Hop
-27,Mayer Hawthorne,Indie Rock
-28,Roger Waters,Rock
-29,Sting,Pop
-30,Supertramp,Rock
-31,Steely Dan,Rock
-32,Stevie Wonder,R&B
-33,Suckers,Rock
-34,The Lumineers,Folk
-35,Silversun Pickups,Alternative Rock
-36,The National,Indie Rock
-37,The Flaming Lips,Alternative Rock
-38,She Wants Revenge,Alternative Rock
-39,El-P,Hip-Hop
-40,Mos Def,Hip-Hop
-41,Gorillaz,Alternative Rock
-42,Mikal Cronin,Indie Rock
-43, Snow Patrol,Indie Rock
-44,Nas,Hip-Hop
-45,Masta Ace,Hip-Hop
-46,The Notorious B.I.G.,Hip-Hop
-47,Sparklehorse,Indie Rock
-48,The Pixies,Alternative Rock
-49,The Magnetic Fields,Indie Rock
-50,The Pharcyde,Hip-Hop
-51,Peter Frampton,Rock
-52,Pink Floyd,Progressive Rock
-53,Paul McCartney & Wings,Rock
-54,The Smiths,Pop
-55,The Strokes,Rock
-56,Arctic Monkeys,Alternative Rock
-57,Moby,Electronic
-58,Radiohead,Alternative Rock
+,name,genre,colour0,Guided By Voices,Lo-Fi,#ccb0411,The Rolling Stones,Rock,#928d0f2,Kanye West,Hip-Hop,#6d31313,The Clash,Punk,#466ba34,The Flaming Lips,Alternative Rock,#b5b8a35,El-P,Hip-Hop,#6d31316,The Police,New Wave,#7a7ad87,Peter Frampton,Rock,#928d0f8,Gorillaz,Alternative Rock,#b5b8a39,Guided By Voices,Lo-Fi,#ccb04110,Mobb Deep,Hip-Hop,#6d313111,Mac Demarco,Indie Rock,#91861312,Metal Fingers,Hip-Hop,#6d313113,Morcheeba,Pop,#6a589914,New Order,New Wave,#7a7ad815,The Rolling Stones,Rock,#928d0f16,The Police,New Wave,#7a7ad817,The Clash,Punk,#466ba318,Van Morrison,R&B,#57480d19,The Who,Rock,#928d0f20,Wings,Rock,#928d0f21,Method Man,Hip-Hop,#6d313122,Menomena,Indie Rock,#91861323,MF DOOM,Hip-Hop,#6d313124,Modest Mouse,Indie Rock,#91861325,MGMT,Electronic,#c4686326,Kanye West,Hip-Hop,#6d313127,Mayer Hawthorne,Indie Rock,#91861328,Roger Waters,Rock,#928d0f29,Sting,Pop,#6a589930,Supertramp,Rock,#928d0f31,Steely Dan,Rock,#928d0f32,Stevie Wonder,R&B,#57480d33,Suckers,Rock,#928d0f34,The Lumineers,Folk,#9c9c9c35,Silversun Pickups,Alternative Rock,#b5b8a336,The National,Indie Rock,#91861337,The Flaming Lips,Alternative Rock,#b5b8a338,She Wants Revenge,Alternative Rock,#b5b8a339,El-P,Hip-Hop,#6d313140,Mos Def,Hip-Hop,#6d313141,Gorillaz,Alternative Rock,#b5b8a342,Mikal Cronin,Indie Rock,#91861343, Snow Patrol,Indie Rock,#91861344,Nas,Hip-Hop,#6d313145,Masta Ace,Hip-Hop,#6d313146,The Notorious B.I.G.,Hip-Hop,#6d313147,Sparklehorse,Indie Rock,#91861348,The Pixies,Alternative Rock,#b5b8a349,The Magnetic Fields,Indie Rock,#91861350,The Pharcyde,Hip-Hop,#6d313151,Peter Frampton,Rock,#928d0f52,Pink Floyd,Progressive Rock,#9abe2653,Paul McCartney & Wings,Rock,#928d0f54,The Smiths,Pop,#6a589955,The Strokes,Rock,#928d0f56,Arctic Monkeys,Alternative Rock,#b5b8a357,Moby,Electronic,#c4686358,Radiohead,Alternative Rock,#b5b8a3
