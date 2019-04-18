@@ -14,147 +14,47 @@
 12,Metal Fingers,Hip-Hop
 13,Morcheeba,Pop
 14,New Order,New Wave
-15,Naughty By Nature,Hip-Hop
-16,MIKE,Hip-Hop
-17,J Dilla,Hip-Hop
-18,Masta Ace,Hip-Hop
-19,Kanye West,Hip-Hop
-20,Common,Hip-Hop
-21, Snow Patrol,Indie Rock
-22,Lou Reed,Rock
-23,Arctic Monkeys,Alternative Rock
-24,Beatles,Rock
-25,Method Man,Hip-Hop
-26,A Tribe Called Quest,Hip-Hop
-27,Modest Mouse,Alternative Rock
-28,Moby,Electronic
-29,Metric,Indie Rock
-30,Dire Straits,Rock
-31,Nas,Hip-Hop
-32,My Bloody Valentine,Shoegaze
-33,Outkast,Hip-Hop
-34,Jimi Hendrix,Rock
-35,David Bowie,Rock
-36,Masta Ace & Edo G,Hip-Hop
-37,Morrissey,Alternative Rock
-38,Meat Loaf,Rock
-39,The Rolling Stones,Rock
-40,The Police,New Wave
-41,The Clash,Punk
-42,Van Morrison,Rock
-43,The Who,Rock
-44,Wings,Rock
-45,The Velvet Underground,Rock
-46,Steely Dan,Rock
-47,The White Stripes,Rock
-48,Supertramp,Rock
-49,Wild Nothing,Shoegaze
-50,The Roots,Hip-Hop
-51,The Pixies ,Rock
-52,The Doors,Rock
-53,The Replacements,Alternative Rock
-54,Menomena,Indie Rock
-55,MF DOOM,Hip-Hop
-56,MGMT,Electronic
-57,Mayer Hawthorne,Indie Rock
-58,Palma Violets,Indie Rock
-59,Arcade Fire,Indie Rock
-60,King Geedorah,Hip-Hop
-61,Passion Pit,Pop
-62,J. Cole,Hip-Hop
-63,Eric Clapton ,Rock
-64,Snoop Dogg,Hip-Hop
-65,Feist,Pop
-66,NaS,Hip-Hop
-67,Novel,Hip-Hop
-68,Kurt Vile,Indie Rock
-69,Mumford & Sons,Folk
-70,Funkadelic,Funk
-71,Roger Waters,Rock
-72,Sting,Pop
-73,Stevie Wonder,R&B
-74,U2,Rock
-75,Slint,Post-Rock
-76,Rage Against The Machine,Alternative Rock
-77,The Killers,Rock
-78,The Mars Volta,Progressive Rock
-79,Sha Stimuli,Hip-Hop
-80,St. Vincent,Indie Rock
-81,Suckers,Rock
-82,The Lumineers,Folk
-83,Silversun Pickups,Alternative Rock
-84,The National,Indie Rock
-85,The Flaming Lips,Alternative Rock
-86,She Wants Revenge,Alternative Rock
-87,Snow Patrol,Indie Rock
-88,The Vaccines,Rock
-89,The Postal Service,Alternative Rock
-90,The Walkmen,Indie Rock
-91,Rhymefest,Hip-Hop
-92,The War On Drugs,Alternative Rock
-93,Volcano Choir,Indie Rock
-94,Sol.illaquists Of Sound,Hip-Hop
-95,The xx,Indie Rock
-96,Ratatat,Experimental
-97,Spoon,Indie Rock
-98,The Naked And Famous,Pop
-99,Pink Floyd,Progressive Rock
-100,The Strokes,Alternative Rock
-101,Wild Beasts,Rock
-102,Waxahatchee,Indie Rock
-103,The Range,Electronic
-104,El-P,Hip-Hop
-105,Mos Def,Hip-Hop
-106,Gorillaz,Pop
-107,Mikal Cronin,Indie Rock
-108,Murs And Fashawn,Hip-Hop
-109,Frank Black,Rock
-110,Schoolboy Q,Hip-Hop
-111,Pinegrove,Indie Rock
-112,Mark Knopfler,Rock
-113,Cat Stevens,Folk
-114,Vampire Weekend,Indie Rock
-115,Peter Bjorn And John,Indie Rock
-116,Pac Div,Hip-Hop
-117,Paul Banks,Indie Rock
-118,Led Zeppelin,Rock
-119,Portugal The Man,Indie Rock
-120,OutKast,Hip-Hop
-121,Really Doe,Hip-Hop
-122,The Notorious B.I.G.,Hip-Hop
-123,Sparklehorse,Indie Rock
-124,The Pixies,Alternative Rock
-125,The Magnetic Fields,Indie Rock
-126,The Pharcyde,Hip-Hop
-127,The Stone Roses,Indie Rock
-128,Wu-Tang Clan,Hip-Hop
-129,Unknown Mortal Orchestra,Lo-Fi
-130,The Rural Alberta Advantage,Indie Rock
-131,The Raconteurs,Indie Rock
-132,The Smiths,Pop
-133,We Were Promised Jetpacks,Rock
-134,Peter Frampton,Rock
-135,Paul McCartney & Wings,Rock
-136,Neil Young,Rock
-137,George Harrison,Rock
-138,Neil Young & Crazy Horse,Folk-Rock
-139,Queens Of The Stone Age,Rock
-140,Rod Stewart,Rock
-141,Nick Cave & The Bad Seeds,Punk
-142,Oasis,Alternative Rock
-143,Paul McCartney,Rock
-144,Queen,Rock
-145,Phil Collins,Soft Rock
-146,Radiohead,Alternative Rock
-147,Manfred Mann's Earth Band,Progressive Rock
-148,Our Lady Peace,Rock
-149,The Spinners,R&B
-150,Red Hot Chili Peppers,Rock
-151,Rush,Progressive Rock
-152,Prefab Sprout,Pop
-153,Dinosaur Jr.,Alternative Rock
-154,Nick Drake,Folk-Rock
-155,Mick Jagger,Rock
-156,Stone Temple Pilots,Alternative Rock
-157,Eric Clapton,Rock
-158,Pete Rock,Hip-Hop
+15,The Rolling Stones,Rock
+16,The Police,New Wave
+17,The Clash,Punk
+18,Van Morrison,R&B
+19,The Who,Rock
+20,Wings,Rock
+21,Method Man,Hip-Hop
+22,Menomena,Indie Rock
+23,MF DOOM,Hip-Hop
+24,Modest Mouse,Indie Rock
+25,MGMT,Electronic
+26,Kanye West,Hip-Hop
+27,Mayer Hawthorne,Indie Rock
+28,Roger Waters,Rock
+29,Sting,Pop
+30,Supertramp,Rock
+31,Steely Dan,Rock
+32,Stevie Wonder,R&B
+33,Suckers,Rock
+34,The Lumineers,Folk
+35,Silversun Pickups,Alternative Rock
+36,The National,Indie Rock
+37,The Flaming Lips,Alternative Rock
+38,She Wants Revenge,Alternative Rock
+39,El-P,Hip-Hop
+40,Mos Def,Hip-Hop
+41,Gorillaz,Alternative Rock
+42,Mikal Cronin,Indie Rock
+43, Snow Patrol,Indie Rock
+44,Nas,Hip-Hop
+45,Masta Ace,Hip-Hop
+46,The Notorious B.I.G.,Hip-Hop
+47,Sparklehorse,Indie Rock
+48,The Pixies,Alternative Rock
+49,The Magnetic Fields,Indie Rock
+50,The Pharcyde,Hip-Hop
+51,Peter Frampton,Rock
+52,Pink Floyd,Progressive Rock
+53,Paul McCartney & Wings,Rock
+54,The Smiths,Pop
+55,The Strokes,Rock
+56,Arctic Monkeys,Alternative Rock
+57,Moby,Electronic
+58,Radiohead,Alternative Rock
