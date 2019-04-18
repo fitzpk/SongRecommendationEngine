@@ -1,53 +1,1 @@
-,source,target
-0,Guided By Voices,Mobb Deep
-1,Guided By Voices,Mac Demarco
-2,Guided By Voices,Metal Fingers
-4,Guided By Voices,Morcheeba
-5,Guided By Voices,New Order
-6,The Rolling Stones,The Police
-7,The Rolling Stones,The Clash
-8,The Rolling Stones,Van Morrison
-9,The Rolling Stones,The Who
-10,The Rolling Stones,Wings
-11,Kanye West,Method Man
-12,Kanye West,Menomena
-13,Kanye West,MF DOOM
-14,Kanye West,Mobb Deep
-15,Kanye West,Modest Mouse
-17,Kanye West,MGMT
-19,Kanye West,Mayer Hawthorne
-20,The Clash,Roger Waters
-21,The Clash,Sting
-22,The Clash,The Police
-23,The Clash,Supertramp
-25,The Clash,Steely Dan
-26,The Clash,The Rolling Stones
-27,The Clash,Stevie Wonder
-29,The Clash,Van Morrison
-30,The Flaming Lips,Suckers
-31,The Flaming Lips,The Lumineers
-32,The Flaming Lips,Silversun Pickups
-35,The Flaming Lips,The National
-38,The Flaming Lips,She Wants Revenge
-39,El-P,Menomena
-40,El-P,Mos Def
-41,El-P,Gorillaz
-42,El-P,Mikal Cronin
-43,El-P, Snow Patrol
-44,El-P,Nas
-45,El-P,Masta Ace
-47,The Police,The Notorious B.I.G.
-48,The Police,The Rolling Stones
-49,The Police,Sparklehorse
-51,The Police,The Pixies
-52,The Police,The Magnetic Fields
-54,The Police,The Pharcyde
-55,Peter Frampton,Pink Floyd
-57,Peter Frampton,Paul McCartney & Wings
-58,The Clash,The Smiths
-59,The Clash,The Strokes
-60,The Clash,The Notorious B.I.G.
-61,Gorillaz,Arctic Monkeys
-65,Gorillaz,El-P
-67,Gorillaz,Moby
-69,Gorillaz,Radiohead
+,source,scolor,target,tcolor0,Guided By Voices,blue,Mobb Deep,blue1,Guided By Voices,blue,Mac Demarco,blue2,Guided By Voices,blue,Metal Fingers,blue4,Guided By Voices,blue,Morcheeba,blue5,Guided By Voices,blue,New Order,blue6,The Rolling Stones,red,The Police,blue7,The Rolling Stones,red,The Clash,blue8,The Rolling Stones,red,Van Morrison,blue9,The Rolling Stones,red,The Who,blue10,The Rolling Stones,red,Wings,blue11,Kanye West,blue,Method Man,blue12,Kanye West,blue,Menomena,blue13,Kanye West,blue,MF DOOM,blue14,Kanye West,blue,Mobb Deep,blue15,Kanye West,blue,Modest Mouse,blue17,Kanye West,blue,MGMT,blue19,Kanye West,blue,Mayer Hawthorne,blue20,The Clash,blue,Roger Waters,red21,The Clash,blue,Sting,red22,The Clash,blue,The Police,red23,The Clash,blue,Supertramp,red25,The Clash,blue,Steely Dan,red26,The Clash,blue,The Rolling Stones,red27,The Clash,blue,Stevie Wonder,red29,The Clash,blue,Van Morrison,red30,The Flaming Lips,blue,Suckers,red31,The Flaming Lips,blue,The Lumineers,red32,The Flaming Lips,blue,Silversun Pickups,red35,The Flaming Lips,blue,The National,red38,The Flaming Lips,blue,She Wants Revenge,red39,El-P,green,Menomena,red40,El-P,green,Mos Def,red41,El-P,green,Gorillaz,red42,El-P,green,Mikal Cronin,red43,El-P,green, Snow Patrol,red44,El-P,green,Nas,red45,El-P,green,Masta Ace,red47,The Police,green,The Notorious B.I.G.,red48,The Police,green,The Rolling Stones,red49,The Police,green,Sparklehorse,red51,The Police,green,The Pixies,red52,The Police,green,The Magnetic Fields,green54,The Police,green,The Pharcyde,green55,Peter Frampton,green,Pink Floyd,green57,Peter Frampton,green,Paul McCartney & Wings,green58,The Clash,green,The Smiths,green59,The Clash,green,The Strokes,green60,The Clash,green,The Notorious B.I.G.,green61,Gorillaz,green,Arctic Monkeys,green65,Gorillaz,green,El-P,green67,Gorillaz,green,Moby,green69,Gorillaz,green,Radiohead,green
