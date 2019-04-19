@@ -1,1 +1,55 @@
-,source,scolor,target,tcolor0,Guided By Voices,blue,Mobb Deep,blue1,Guided By Voices,blue,Mac Demarco,blue2,Guided By Voices,blue,Metal Fingers,blue4,Guided By Voices,blue,Morcheeba,blue5,Guided By Voices,blue,New Order,blue6,The Rolling Stones,red,The Police,blue7,The Rolling Stones,red,The Clash,blue8,The Rolling Stones,red,Van Morrison,blue9,The Rolling Stones,red,The Who,blue10,The Rolling Stones,red,Wings,blue11,Kanye West,blue,Method Man,blue12,Kanye West,blue,Menomena,blue13,Kanye West,blue,MF DOOM,blue14,Kanye West,blue,Mobb Deep,blue15,Kanye West,blue,Modest Mouse,blue17,Kanye West,blue,MGMT,blue19,Kanye West,blue,Mayer Hawthorne,blue20,The Clash,blue,Roger Waters,red21,The Clash,blue,Sting,red22,The Clash,blue,The Police,red23,The Clash,blue,Supertramp,red25,The Clash,blue,Steely Dan,red26,The Clash,blue,The Rolling Stones,red27,The Clash,blue,Stevie Wonder,red29,The Clash,blue,Van Morrison,red30,The Flaming Lips,blue,Suckers,red31,The Flaming Lips,blue,The Lumineers,red32,The Flaming Lips,blue,Silversun Pickups,red35,The Flaming Lips,blue,The National,red38,The Flaming Lips,blue,She Wants Revenge,red39,El-P,green,Menomena,red40,El-P,green,Mos Def,red41,El-P,green,Gorillaz,red42,El-P,green,Mikal Cronin,red43,El-P,green, Snow Patrol,red44,El-P,green,Nas,red45,El-P,green,Masta Ace,red47,The Police,green,The Notorious B.I.G.,red48,The Police,green,The Rolling Stones,red49,The Police,green,Sparklehorse,red51,The Police,green,The Pixies,red52,The Police,green,The Magnetic Fields,green54,The Police,green,The Pharcyde,green55,Peter Frampton,green,Pink Floyd,green57,Peter Frampton,green,Paul McCartney & Wings,green58,The Clash,green,The Smiths,green59,The Clash,green,The Strokes,green60,The Clash,green,The Notorious B.I.G.,green61,Gorillaz,green,Arctic Monkeys,green65,Gorillaz,green,El-P,green67,Gorillaz,green,Moby,green69,Gorillaz,green,Radiohead,green
+,source,scolor,target,tcolor
+0,Guided By Voices,peachpuff,Mobb Deep,lightsalmon
+1,Guided By Voices,peachpuff,Mac Demarco,indianred
+2,Guided By Voices,peachpuff,Metal Fingers,lightsalmon
+4,Guided By Voices,peachpuff,Morcheeba,darkseagreen
+5,Guided By Voices,peachpuff,New Order,darkkhaki
+6,The Rolling Stones,thistle,The Police,thistle
+7,The Rolling Stones,thistle,The Clash,dodgerblue
+8,The Rolling Stones,thistle,Van Morrison,thistle
+9,The Rolling Stones,thistle,The Who,thistle
+10,The Rolling Stones,thistle,Wings,thistle
+11,Kanye West,lightsalmon,Method Man,lightsalmon
+12,Kanye West,lightsalmon,Menomena,indianred
+13,Kanye West,lightsalmon,MF DOOM,lightsalmon
+14,Kanye West,lightsalmon,Mobb Deep,lightsalmon
+15,Kanye West,lightsalmon,Modest Mouse,indianred
+17,Kanye West,lightsalmon,MGMT,slategray
+19,Kanye West,lightsalmon,Mayer Hawthorne,indianred
+20,The Clash,dodgerblue,Roger Waters,thistle
+21,The Clash,dodgerblue,Sting,darkseagreen
+22,The Clash,dodgerblue,The Police,darkkhaki
+23,The Clash,dodgerblue,Supertramp,thistle
+25,The Clash,dodgerblue,Steely Dan,thistle
+26,The Clash,dodgerblue,The Rolling Stones,thistle
+27,The Clash,dodgerblue,Stevie Wonder,steelblue
+29,The Clash,dodgerblue,Van Morrison,steelblue
+30,The Flaming Lips,darkorange,Suckers,thistle
+31,The Flaming Lips,darkorange,The Lumineers,indigo
+32,The Flaming Lips,darkorange,Silversun Pickups,darkorange
+35,The Flaming Lips,darkorange,The National,indianred
+38,The Flaming Lips,darkorange,She Wants Revenge,darkorange
+39,El-P,lightsalmon,Menomena,indianred
+40,El-P,lightsalmon,Mos Def,lightsalmon
+41,El-P,lightsalmon,Gorillaz,darkseagreen
+42,El-P,lightsalmon,Mikal Cronin,indianred
+43,El-P,lightsalmon, Snow Patrol,indianred
+44,El-P,lightsalmon,Nas,lightsalmon
+45,El-P,lightsalmon,Masta Ace,lightsalmon
+47,The Police,darkkhaki,The Notorious B.I.G.,lightsalmon
+48,The Police,darkkhaki,The Rolling Stones,thistle
+49,The Police,darkkhaki,Sparklehorse,indianred
+51,The Police,darkkhaki,The Pixies,darkorange
+52,The Police,darkkhaki,The Magnetic Fields,indianred
+54,The Police,darkkhaki,The Pharcyde,lightsalmon
+55,Peter Frampton,thistle,Pink Floyd,thistle
+56,Peter Frampton,thistle,Pink Floyd,cadetblue
+57,Peter Frampton,thistle,Paul McCartney & Wings,thistle
+58,The Clash,dodgerblue,The Smiths,darkseagreen
+59,The Clash,dodgerblue,The Strokes,thistle
+60,The Clash,dodgerblue,The Notorious B.I.G.,lightsalmon
+61,Gorillaz,darkorange,Arctic Monkeys,darkorange
+64,Gorillaz,darkorange,Arctic Monkeys,thistle
+65,Gorillaz,darkorange,El-P,lightsalmon
+67,Gorillaz,darkorange,Moby,slategray
+69,Gorillaz,darkorange,Radiohead,darkorange
