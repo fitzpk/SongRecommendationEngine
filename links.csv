@@ -1,53 +1,138 @@
 ,source,scolor,target,tcolor
-0,Guided By Voices,peachpuff,Mobb Deep,lightsalmon
-1,Guided By Voices,peachpuff,Mac Demarco,indianred
-2,Guided By Voices,peachpuff,Metal Fingers,lightsalmon
-4,Guided By Voices,peachpuff,Morcheeba,darkseagreen
-5,Guided By Voices,peachpuff,New Order,darkkhaki
-6,The Rolling Stones,thistle,The Police,thistle
-7,The Rolling Stones,thistle,The Clash,dodgerblue
-8,The Rolling Stones,thistle,Van Morrison,thistle
-9,The Rolling Stones,thistle,The Who,thistle
-10,The Rolling Stones,thistle,Wings,thistle
-11,Kanye West,lightsalmon,Method Man,lightsalmon
-12,Kanye West,lightsalmon,Menomena,indianred
-13,Kanye West,lightsalmon,MF DOOM,lightsalmon
-14,Kanye West,lightsalmon,Mobb Deep,lightsalmon
-15,Kanye West,lightsalmon,Modest Mouse,indianred
-17,Kanye West,lightsalmon,MGMT,slategray
-19,Kanye West,lightsalmon,Mayer Hawthorne,indianred
-20,The Clash,dodgerblue,Roger Waters,thistle
-21,The Clash,dodgerblue,Sting,darkseagreen
-22,The Clash,dodgerblue,The Police,darkkhaki
-23,The Clash,dodgerblue,Supertramp,thistle
-25,The Clash,dodgerblue,Steely Dan,thistle
-26,The Clash,dodgerblue,The Rolling Stones,thistle
-27,The Clash,dodgerblue,Stevie Wonder,steelblue
-29,The Clash,dodgerblue,Van Morrison,steelblue
-30,The Flaming Lips,darkorange,Suckers,thistle
-31,The Flaming Lips,darkorange,The Lumineers,indigo
-32,The Flaming Lips,darkorange,Silversun Pickups,darkorange
-35,The Flaming Lips,darkorange,The National,indianred
-38,The Flaming Lips,darkorange,She Wants Revenge,darkorange
-39,El-P,lightsalmon,Menomena,indianred
-40,El-P,lightsalmon,Mos Def,lightsalmon
-41,El-P,lightsalmon,Gorillaz,darkseagreen
-42,El-P,lightsalmon,Mikal Cronin,indianred
-43,El-P,lightsalmon, Snow Patrol,indianred
-44,El-P,lightsalmon,Nas,lightsalmon
-45,El-P,lightsalmon,Masta Ace,lightsalmon
-47,The Police,darkkhaki,The Notorious B.I.G.,lightsalmon
-48,The Police,darkkhaki,The Rolling Stones,thistle
-49,The Police,darkkhaki,Sparklehorse,indianred
-51,The Police,darkkhaki,The Pixies,darkorange
-52,The Police,darkkhaki,The Magnetic Fields,indianred
-54,The Police,darkkhaki,The Pharcyde,lightsalmon
-55,Peter Frampton,thistle,Pink Floyd,thistle
-57,Peter Frampton,thistle,Paul McCartney & Wings,thistle
-58,The Clash,dodgerblue,The Smiths,darkseagreen
-59,The Clash,dodgerblue,The Strokes,thistle
-60,The Clash,dodgerblue,The Notorious B.I.G.,lightsalmon
-61,Gorillaz,darkorange,Arctic Monkeys,darkorange
-65,Gorillaz,darkorange,El-P,lightsalmon
-67,Gorillaz,darkorange,Moby,slategray
-69,Gorillaz,darkorange,Radiohead,darkorange
+0,The Magnetic Fields,indianred,The National,indianred
+1,The Magnetic Fields,indianred,The New Pornographers,indianred
+2,The Magnetic Fields,indianred,Snoop Dogg,lightsalmon
+3,The Magnetic Fields,indianred,Snow Patrol,indianred
+4,The Magnetic Fields,indianred,The Rural Alberta Advantage,indianred
+5,The Magnetic Fields,indianred,The Notorious B.I.G.,lightsalmon
+7,The Magnetic Fields,indianred,Wale,lightsalmon
+9,Feist,darkseagreen,Menomena,indianred
+10,Feist,darkseagreen,King Geedorah,lightsalmon
+11,Feist,darkseagreen,Jimi Hendrix,thistle
+13,Feist,darkseagreen,Mac DeMarco,indianred
+14,Feist,darkseagreen,J. Cole,lightsalmon
+15,Feist,darkseagreen,Morcheeba,darkseagreen
+16,Feist,darkseagreen,Arcade Fire,indianred
+17,Feist,darkseagreen,Guided By Voices,indianred
+18,Lou Reed,thistle,John lennon,thistle
+19,Lou Reed,thistle,Frank Black,thistle
+20,Lou Reed,thistle,Neil Young,thistle
+22,Lou Reed,thistle,New Order,darkkhaki
+23,Lou Reed,thistle,Jimi Hendrix,thistle
+24,Lou Reed,thistle,Eric Clapton,thistle
+25,Lou Reed,thistle,Keith Richards,thistle
+26,Arcade Fire,indianred,J Dilla,lightsalmon
+27,Arcade Fire,indianred,Kanye West,lightsalmon
+28,Arcade Fire,indianred,Feist,darkseagreen
+31,Arcade Fire,indianred,MIKE,lightsalmon
+35,Oasis,thistle,Nick Cave & The Bad Seeds,dodgerblue
+36,Oasis,thistle,Miles Benjamin Anthony Robinson,thistle
+37,Oasis,thistle,Pilate,indianred
+40,Feist,darkseagreen,Kurt Vile,indianred
+42,Feist,darkseagreen,Kanye West,lightsalmon
+46,Clams Casino,lightsalmon,Gorillaz,darkseagreen
+47,Clams Casino,lightsalmon,Mayer Hawthorne,indianred
+49,Clams Casino,lightsalmon,Mac DeMarco,indianred
+50,Clams Casino,lightsalmon,Arcade Fire,indianred
+51,Clams Casino,lightsalmon,Feist,darkseagreen
+53,Clams Casino,lightsalmon,MellowHype,lightsalmon
+54,Clams Casino,lightsalmon,Kanye West,lightsalmon
+55,Outkast,lightsalmon,Passion Pit,darkseagreen
+56,Outkast,lightsalmon,Nas,lightsalmon
+57,Outkast,lightsalmon,Non Phixion,lightsalmon
+59,Outkast,lightsalmon,Pete Rock,lightsalmon
+60,Outkast,lightsalmon,Pac Div,lightsalmon
+61,Outkast,lightsalmon,Metric,indianred
+62,Outkast,lightsalmon,Peter Gabriel,thistle
+63,Outkast,lightsalmon,Paul Banks,indianred
+64,Japandroids,darkorange,Dinosaur Jr.,darkorange
+65,Japandroids,darkorange,MGMT,slategray
+66,Japandroids,darkorange,Arctic Monkeys,darkorange
+67,Japandroids,darkorange,Gorillaz,darkseagreen
+69,Japandroids,darkorange,Arcade Fire,indianred
+70,The Clash,dodgerblue,The Rolling Stones,thistle
+72,The Clash,dodgerblue,The Police,darkkhaki
+73,The Clash,dodgerblue,The Smiths,darkseagreen
+75,The Clash,dodgerblue,Red Hot Chili Peppers,thistle
+76,The Clash,dodgerblue,Paul McCartney,thistle
+77,The Clash,dodgerblue,Supertramp,cadetblue
+78,Peter Frampton,thistle,Pink Floyd,thistle
+79,Peter Frampton,thistle,Stevie Wonder,steelblue
+80,Peter Frampton,thistle,Paul McCartney,thistle
+81,Peter Frampton,thistle,Rod Stewart,linen
+82,Peter Frampton,thistle,Neil Young,thistle
+83,Peter Frampton,thistle,Phil Collins,seashell
+84,Paul Simon,thistle,Paul McCartney,thistle
+86,Paul Simon,thistle,Neil Young,thistle
+87,Paul Simon,thistle,Queen,thistle
+94,Outkast,lightsalmon,Rhymefest,lightsalmon
+95,Outkast,lightsalmon,Odd Future,lightsalmon
+97,Outkast,lightsalmon,Nightmares On Wax,steelblue
+98,Outkast,lightsalmon,Metal Fingers,lightsalmon
+99,Outkast,lightsalmon,Oh No,lightsalmon
+100,Outkast,lightsalmon,Portugal The Man,indianred
+102,Outkast,lightsalmon,Pearl Jam,gainsboro
+103,Modest Mouse,darkorange,Metric,indianred
+104,Modest Mouse,darkorange,Murs And Fashawn,lightsalmon
+105,Modest Mouse,darkorange,Moby,slategray
+106,Modest Mouse,darkorange,Gorillaz,darkorange
+107,Modest Mouse,darkorange,Phoenix,darkorange
+108,Modest Mouse,darkorange,PUP,darkorange
+109,Modest Mouse,darkorange,My Bloody Valentine,darkorange
+111,Foreigner,thistle,Eric Clapton,thistle
+112,Foreigner,thistle,Bruce Springsteen,thistle
+113,Foreigner,thistle,Manfred Mann's Earth Band,cadetblue
+114,Foreigner,thistle,John lennon,thistle
+115,Foreigner,thistle,George Harrison,thistle
+116,Foreigner,thistle,Dire Straits,thistle
+117,Foreigner,thistle,Led Zeppelin,thistle
+118,Foreigner,thistle,Lou Reed,powderblue
+119,Foreigner,thistle,Elton John,thistle
+121,Foreigner,thistle,Aerosmith,thistle
+122,Foreigner,thistle,Marvin Gaye,linen
+125,Foreigner,thistle,David Bowie,thistle
+127,J. Cole,lightsalmon,Kurt Vile,indianred
+128,J. Cole,lightsalmon,Future Islands,indianred
+129,J. Cole,lightsalmon,Menomena,indianred
+131,J. Cole,lightsalmon,MIKE,lightsalmon
+132,J. Cole,lightsalmon,Mayer Hawthorne,indianred
+133,Kanye West,lightsalmon,J. Cole,lightsalmon
+134,Kanye West,lightsalmon,Outkast,lightsalmon
+135,Kanye West,lightsalmon,Arctic Monkeys,indianred
+136,Kanye West,lightsalmon,Clams Casino,lightsalmon
+139,Kanye West,lightsalmon,MF DOOM,lightsalmon
+140,Kanye West,lightsalmon,Arcade Fire,indianred
+141,Kanye West,lightsalmon,Kurt Vile,indianred
+144,The Magnetic Fields,indianred,The Pharcyde,lightsalmon
+147,The Magnetic Fields,indianred,Spoon,indianred
+148,The Magnetic Fields,indianred,Sparklehorse,indianred
+154,Clams Casino,lightsalmon,Murs And Fashawn,lightsalmon
+156,Clams Casino,lightsalmon,OFWGKTA,lightsalmon
+158,Clams Casino,lightsalmon,Mumford & Sons,indigo
+159,Clams Casino,lightsalmon,Murs,lightsalmon
+160,Clams Casino,lightsalmon,Arctic Monkeys,indianred
+161,Pixies,darkorange,Rage Against The Machine,darkorange
+162,Pixies,darkorange,Pearl Jam,thistle
+163,Pixies,darkorange,Ratatat,mistyrose
+164,Pixies,darkorange,Our Lady Peace,thistle
+165,Pixies,darkorange,Slowdive,pink
+166,Pixies,darkorange,Neon Indian,slategray
+168,Guided By Voices,indianred,Common,lightsalmon
+169,Guided By Voices,indianred,J Dilla,lightsalmon
+174,Gorillaz,darkorange,MF DOOM,lightsalmon
+175,Gorillaz,darkorange,Mr Hudson & The Library,darkorange
+176,Gorillaz,darkorange,Morrissey,darkorange
+177,Gorillaz,darkorange,J Dilla,lightsalmon
+179,Gorillaz,darkorange,Masta Ace,lightsalmon
+181,Gorillaz,darkorange,Guided By Voices,indianred
+183,Portishead,wheat,R.E.M.,thistle
+184,Portishead,wheat,Paul McCartney,thistle
+185,Portishead,wheat,Nick Cave & The Bad Seeds,dodgerblue
+186,Portishead,wheat,Oasis,thistle
+187,Portishead,wheat,Rod Stewart,linen
+188,Portishead,wheat,Slowdive,pink
+191,Portishead,wheat,Neil Young,thistle
+193,George Harrison,thistle,Foreigner,thistle
+194,George Harrison,thistle,Elton John,thistle
+199,George Harrison,thistle,Aerosmith,thistle
+200,George Harrison,thistle,Bruce Springsteen,thistle
