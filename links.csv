@@ -1,138 +1,36 @@
 ,source,scolor,target,tcolor
-0,The Magnetic Fields,indianred,The National,indianred
-1,The Magnetic Fields,indianred,The New Pornographers,indianred
-2,The Magnetic Fields,indianred,Snoop Dogg,lightsalmon
-3,The Magnetic Fields,indianred,Snow Patrol,indianred
-4,The Magnetic Fields,indianred,The Rural Alberta Advantage,indianred
-5,The Magnetic Fields,indianred,The Notorious B.I.G.,lightsalmon
-7,The Magnetic Fields,indianred,Wale,lightsalmon
-9,Feist,darkseagreen,Menomena,indianred
-10,Feist,darkseagreen,King Geedorah,lightsalmon
-11,Feist,darkseagreen,Jimi Hendrix,thistle
-13,Feist,darkseagreen,Mac DeMarco,indianred
-14,Feist,darkseagreen,J. Cole,lightsalmon
-15,Feist,darkseagreen,Morcheeba,darkseagreen
-16,Feist,darkseagreen,Arcade Fire,indianred
-17,Feist,darkseagreen,Guided By Voices,indianred
-18,Lou Reed,thistle,John lennon,thistle
-19,Lou Reed,thistle,Frank Black,thistle
-20,Lou Reed,thistle,Neil Young,thistle
-22,Lou Reed,thistle,New Order,darkkhaki
-23,Lou Reed,thistle,Jimi Hendrix,thistle
-24,Lou Reed,thistle,Eric Clapton,thistle
-25,Lou Reed,thistle,Keith Richards,thistle
-26,Arcade Fire,indianred,J Dilla,lightsalmon
-27,Arcade Fire,indianred,Kanye West,lightsalmon
-28,Arcade Fire,indianred,Feist,darkseagreen
-31,Arcade Fire,indianred,MIKE,lightsalmon
-35,Oasis,thistle,Nick Cave & The Bad Seeds,dodgerblue
-36,Oasis,thistle,Miles Benjamin Anthony Robinson,thistle
-37,Oasis,thistle,Pilate,indianred
-40,Feist,darkseagreen,Kurt Vile,indianred
-42,Feist,darkseagreen,Kanye West,lightsalmon
-46,Clams Casino,lightsalmon,Gorillaz,darkseagreen
-47,Clams Casino,lightsalmon,Mayer Hawthorne,indianred
-49,Clams Casino,lightsalmon,Mac DeMarco,indianred
-50,Clams Casino,lightsalmon,Arcade Fire,indianred
-51,Clams Casino,lightsalmon,Feist,darkseagreen
-53,Clams Casino,lightsalmon,MellowHype,lightsalmon
-54,Clams Casino,lightsalmon,Kanye West,lightsalmon
-55,Outkast,lightsalmon,Passion Pit,darkseagreen
-56,Outkast,lightsalmon,Nas,lightsalmon
-57,Outkast,lightsalmon,Non Phixion,lightsalmon
-59,Outkast,lightsalmon,Pete Rock,lightsalmon
-60,Outkast,lightsalmon,Pac Div,lightsalmon
-61,Outkast,lightsalmon,Metric,indianred
-62,Outkast,lightsalmon,Peter Gabriel,thistle
-63,Outkast,lightsalmon,Paul Banks,indianred
-64,Japandroids,darkorange,Dinosaur Jr.,darkorange
-65,Japandroids,darkorange,MGMT,slategray
-66,Japandroids,darkorange,Arctic Monkeys,darkorange
-67,Japandroids,darkorange,Gorillaz,darkseagreen
-69,Japandroids,darkorange,Arcade Fire,indianred
-70,The Clash,dodgerblue,The Rolling Stones,thistle
-72,The Clash,dodgerblue,The Police,darkkhaki
-73,The Clash,dodgerblue,The Smiths,darkseagreen
-75,The Clash,dodgerblue,Red Hot Chili Peppers,thistle
-76,The Clash,dodgerblue,Paul McCartney,thistle
-77,The Clash,dodgerblue,Supertramp,cadetblue
-78,Peter Frampton,thistle,Pink Floyd,thistle
-79,Peter Frampton,thistle,Stevie Wonder,steelblue
-80,Peter Frampton,thistle,Paul McCartney,thistle
-81,Peter Frampton,thistle,Rod Stewart,linen
-82,Peter Frampton,thistle,Neil Young,thistle
-83,Peter Frampton,thistle,Phil Collins,seashell
-84,Paul Simon,thistle,Paul McCartney,thistle
-86,Paul Simon,thistle,Neil Young,thistle
-87,Paul Simon,thistle,Queen,thistle
-94,Outkast,lightsalmon,Rhymefest,lightsalmon
-95,Outkast,lightsalmon,Odd Future,lightsalmon
-97,Outkast,lightsalmon,Nightmares On Wax,steelblue
-98,Outkast,lightsalmon,Metal Fingers,lightsalmon
-99,Outkast,lightsalmon,Oh No,lightsalmon
-100,Outkast,lightsalmon,Portugal The Man,indianred
-102,Outkast,lightsalmon,Pearl Jam,gainsboro
-103,Modest Mouse,darkorange,Metric,indianred
-104,Modest Mouse,darkorange,Murs And Fashawn,lightsalmon
-105,Modest Mouse,darkorange,Moby,slategray
-106,Modest Mouse,darkorange,Gorillaz,darkorange
-107,Modest Mouse,darkorange,Phoenix,darkorange
-108,Modest Mouse,darkorange,PUP,darkorange
-109,Modest Mouse,darkorange,My Bloody Valentine,darkorange
-111,Foreigner,thistle,Eric Clapton,thistle
-112,Foreigner,thistle,Bruce Springsteen,thistle
-113,Foreigner,thistle,Manfred Mann's Earth Band,cadetblue
-114,Foreigner,thistle,John lennon,thistle
-115,Foreigner,thistle,George Harrison,thistle
-116,Foreigner,thistle,Dire Straits,thistle
-117,Foreigner,thistle,Led Zeppelin,thistle
-118,Foreigner,thistle,Lou Reed,powderblue
-119,Foreigner,thistle,Elton John,thistle
-121,Foreigner,thistle,Aerosmith,thistle
-122,Foreigner,thistle,Marvin Gaye,linen
-125,Foreigner,thistle,David Bowie,thistle
-127,J. Cole,lightsalmon,Kurt Vile,indianred
-128,J. Cole,lightsalmon,Future Islands,indianred
-129,J. Cole,lightsalmon,Menomena,indianred
-131,J. Cole,lightsalmon,MIKE,lightsalmon
-132,J. Cole,lightsalmon,Mayer Hawthorne,indianred
-133,Kanye West,lightsalmon,J. Cole,lightsalmon
-134,Kanye West,lightsalmon,Outkast,lightsalmon
-135,Kanye West,lightsalmon,Arctic Monkeys,indianred
-136,Kanye West,lightsalmon,Clams Casino,lightsalmon
-139,Kanye West,lightsalmon,MF DOOM,lightsalmon
-140,Kanye West,lightsalmon,Arcade Fire,indianred
-141,Kanye West,lightsalmon,Kurt Vile,indianred
-144,The Magnetic Fields,indianred,The Pharcyde,lightsalmon
-147,The Magnetic Fields,indianred,Spoon,indianred
-148,The Magnetic Fields,indianred,Sparklehorse,indianred
-154,Clams Casino,lightsalmon,Murs And Fashawn,lightsalmon
-156,Clams Casino,lightsalmon,OFWGKTA,lightsalmon
-158,Clams Casino,lightsalmon,Mumford & Sons,indigo
-159,Clams Casino,lightsalmon,Murs,lightsalmon
-160,Clams Casino,lightsalmon,Arctic Monkeys,indianred
-161,Pixies,darkorange,Rage Against The Machine,darkorange
-162,Pixies,darkorange,Pearl Jam,thistle
-163,Pixies,darkorange,Ratatat,mistyrose
-164,Pixies,darkorange,Our Lady Peace,thistle
-165,Pixies,darkorange,Slowdive,pink
-166,Pixies,darkorange,Neon Indian,slategray
-168,Guided By Voices,indianred,Common,lightsalmon
-169,Guided By Voices,indianred,J Dilla,lightsalmon
-174,Gorillaz,darkorange,MF DOOM,lightsalmon
-175,Gorillaz,darkorange,Mr Hudson & The Library,darkorange
-176,Gorillaz,darkorange,Morrissey,darkorange
-177,Gorillaz,darkorange,J Dilla,lightsalmon
-179,Gorillaz,darkorange,Masta Ace,lightsalmon
-181,Gorillaz,darkorange,Guided By Voices,indianred
-183,Portishead,wheat,R.E.M.,thistle
-184,Portishead,wheat,Paul McCartney,thistle
-185,Portishead,wheat,Nick Cave & The Bad Seeds,dodgerblue
-186,Portishead,wheat,Oasis,thistle
-187,Portishead,wheat,Rod Stewart,linen
-188,Portishead,wheat,Slowdive,pink
-191,Portishead,wheat,Neil Young,thistle
-193,George Harrison,thistle,Foreigner,thistle
-194,George Harrison,thistle,Elton John,thistle
-199,George Harrison,thistle,Aerosmith,thistle
-200,George Harrison,thistle,Bruce Springsteen,thistle
+0,John lennon,peru,John Lennon,peru
+1,John lennon,peru,Jackson Browne,peru
+2,John lennon,peru,Fleetwood Mac,peru
+3,John lennon,peru,Led Zeppelin,peru
+4,John lennon,peru,Lou Reed,peru
+6,John lennon,peru,Joe Cocker,peru
+8,John lennon,peru,Neil Young,peru
+9,Keith Urban,mistyrose,Ian Brown,darkorange
+10,Keith Urban,mistyrose,Journey,slategray
+11,Keith Urban,mistyrose,John Mayer,mistyrose
+13,Keith Urban,mistyrose,Modest Mouse,darkorange
+15,Keith Urban,mistyrose,Glass Animals,indigo
+16,Keith Urban,mistyrose,Ratatat,royalblue
+17,Ian Brown,darkorange,Brian Eno & John Cale,darkorange
+18,Ian Brown,darkorange,Death Cab For Cutie,aquamarine
+19,Ian Brown,darkorange,John Mayer,mistyrose
+20,Ian Brown,darkorange,Modest Mouse,darkorange
+21,Ian Brown,darkorange,Dinosaur Jr.,darkorange
+22,Ian Brown,darkorange,Grizzly Bear,aquamarine
+23,Ian Brown,darkorange,Interpol,darkorange
+24,Ian Brown,darkorange,Keane,darkorange
+25,Kid Cudi,darkseagreen,Nas,darkseagreen
+26,Kid Cudi,darkseagreen,King Geedorah,darkseagreen
+27,Kid Cudi,darkseagreen,OFWGKTA,darkseagreen
+28,Kid Cudi,darkseagreen,Jay-Z,darkseagreen
+29,Kid Cudi,darkseagreen,Immortal Technique,darkseagreen
+30,Kid Cudi,darkseagreen,Lil Wayne,darkseagreen
+32,Kid Cudi,darkseagreen,Spoon,aquamarine
+33,Kid Cudi,darkseagreen,Kendrick Lamar,darkseagreen
+34,Kid Cudi,darkseagreen,Little Brother,darkseagreen
+35,Bob Seger & the Silver Bullet Band,peru,Beach House,brown
+36,Bob Seger & the Silver Bullet Band,peru,Elton John,peru
+38,Bob Seger & the Silver Bullet Band,peru,The Rolling Stones,peru
+40,Bob Seger & the Silver Bullet Band,peru,Bruce Springsteen,peru
+41,Bob Seger & the Silver Bullet Band,peru,George Harrison,peru

@@ -1,29 +1,37 @@
 ,genre,colour
 0,Alternative Rock,darkorange
 1,Ambient,tomato
-2,Blues,maroon
-3,Electronic,slategray
-4,Experimental,mistyrose
-5,Folk,indigo
-6,Folk-Rock,royalblue
-7,Funk,teal
-8,Garage Rock,papayawhip
-9,Grunge,gainsboro
-10,Hip-Hop,lightsalmon
-11,Indie Rock,indianred
-12,Jazz,orange
-13,Lo-Fi,peachpuff
-14,New Wave,darkkhaki
-15,Pop,darkseagreen
-16,Post-Rock,aquamarine
-17,Progressive Rock,cadetblue
-18,Psychedelic Rock,powderblue
-19,Punk,dodgerblue
-20,R&B,steelblue
-21,Rock,thistle
-22,Roots Rock,mediumpurple
-23,Shoegaze,pink
-24,Soft Rock,seashell
-25,Soul,linen
-26,Synth-pop,silver
-27,Trip Hop,wheat
+2,Art Rock,maroon
+3,Blues,slategray
+4,Country,mistyrose
+5,Electronic,indigo
+6,Experimental,royalblue
+7,Folk,teal
+8,Folk Rock,papayawhip
+9,Folk-Rock,gainsboro
+10,Funk,lightsalmon
+11,Garage Rock,indianred
+12,Grunge,orange
+13,Hard Rock,peachpuff
+14,Heavy Metal,darkkhaki
+15,Hip-Hop,darkseagreen
+16,Indie Rock,aquamarine
+17,Jazz,cadetblue
+18,Lo-Fi,powderblue
+19,Metal,dodgerblue
+20,New Wave,steelblue
+21,Pop,thistle
+22,Post-Rock,mediumpurple
+23,Post-punk,pink
+24,Progressive Rock,seashell
+25,Psychedelic Rock,linen
+26,Punk,silver
+27,R&B,wheat
+28,Rock,peru
+29,Roots Rock,sienna
+30,Shoegaze,brown
+31,Singer/Songwriter,black
+32,Soft Rock,cornsilk
+33,Soul,crimson
+34,Synthpop,coral
+35,Trip Hop,darkmagenta
