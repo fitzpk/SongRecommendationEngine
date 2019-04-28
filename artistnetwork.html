@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+.node circle {
+  fill: #ccc;
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+text {
+  font: 10px sans-serif;
+  pointer-events: none;
+}
+
+#legend {
+	overflow: scroll;
+	position: fixed;
+	top:10;
+	left:10;
+	width: 160px;
+	height: auto;
+	margin-top:57px;
+  	padding: 0 18px;
+  	max-height: 0;
+  	overflow: hidden;
+  	transition: max-height 0.4s ease-out;
+  	background-color: white;
+}
+
+.legendrow {
+	font-family: 'Helvetica';
+	font-size: 12px;
+	color: gray;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	overflow: scroll;
+}
+
+span {
+	height: 14px;
+  	width: 14px;
+  	position: absolute;
+  	right: 0;
+  	margin-right: 10px;
+  	margin-top: 1px;
+  	border-radius: 50%;
+  	display: inline-block;
+}
+
+.collapsible {
+	border: none;
+	border-bottom: 3px solid #81a2b3;
+	color: black;
+	cursor: pointer;
+	padding: 18px;
+	width: 200px;
+	text-align: left;
+	outline: none;
+	font-size: 15px;
+	position: fixed;
+	transition: 0.2s ease-out;
+}
+
+.active, .collapsible:hover {
+  background-color: #e6e7e7;
+}
+
+</style>
+<body>
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<button class="collapsible">Legend</button>
+<div id="legend"> </div>
+
+<script>
+d3.csv("https://raw.githubusercontent.com/fitzpk/SongRecommendationEngine/master/colourkey.csv", function(colours) {
+	var colourkey = colours;
+	colourkey.forEach(function(row) {
+		var genre = row.genre;
+		var colour = row.colour;
+		var line = document.createElement("div");
+		line.setAttribute("class", "legendrow");
+		line.innerHTML = row.genre + "&nbsp&nbsp<span style='background-color:" + row.colour + "'>   </span>";
+		document.getElementById("legend").appendChild(line);
+	});
+});
+</script>
+
+
+<script>
+
+d3.csv("https://raw.githubusercontent.com/fitzpk/SongRecommendationEngine/master/links.csv", function(data) {
+	var links = data;
+	var nodes = {};
+	
+	// Compute the distinct nodes from the links.
+	links.forEach(function(link) {
+	  link.source = nodes[link.source] || (nodes[link.source] = {name: link.source, color: link.scolor});
+	  link.target = nodes[link.target] || (nodes[link.target] = {name: link.target, color: link.tcolor});
+	});
+	
+	var width = 1000,
+	    height = 800;
+	
+	var force = d3.layout.force()
+	    .nodes(d3.values(nodes))
+	    .links(links)
+	    .size([width, height])
+	    .linkDistance(100)
+	    .charge(-300)
+	    .on("tick", tick)
+	    .start();
+	
+	var svg = d3.select("body").append("svg")
+	    .attr("width", width)
+	    .attr("height", height);
+	
+	var link = svg.selectAll(".link")
+	    .data(force.links())
+	  .enter().append("line")
+	    .attr("class", "link");
+	
+	var node = svg.selectAll(".node")
+	    .data(force.nodes())
+	  .enter().append("g")
+	    .attr("class", "node")
+	    .on("mouseover", mouseover)
+	    .on("mouseout", mouseout)
+	    .call(force.drag);
+	
+	node.append("circle")
+	    .attr("r", 8)
+	    .style("fill", function (d) { return d.color; });
+	
+	node.append("text")
+	    .attr("x", 12)
+	    .attr("dy", ".35em")
+	    .text(function(d) { return d.name; });
+	
+	function tick() {
+	  link
+	      .attr("x1", function(d) { return d.source.x; })
+	      .attr("y1", function(d) { return d.source.y; })
+	      .attr("x2", function(d) { return d.target.x; })
+	      .attr("y2", function(d) { return d.target.y; });
+	
+	  node
+	      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+	}
+	
+	function mouseover() {
+	  d3.select(this).select("circle").transition()
+	      .duration(750)
+	      .attr("r", 16);
+	}
+	
+	function mouseout() {
+	  d3.select(this).select("circle").transition()
+	      .duration(750)
+	      .attr("r", 8);
+	}
+	
+});
+</script>
+<script>
+	var coll = document.getElementsByClassName("collapsible");
+	var i;
+	
+	for (i = 0; i < coll.length; i++) {
+	  coll[i].addEventListener("click", function() {
+	  	this.classList.toggle("active");
+	    var content = this.nextElementSibling;
+	    if (content.style.maxHeight){
+	      content.style.maxHeight = null;
+	      content.style.border = "2px solid white";
+	    } else {
+	      content.style.maxHeight = "400px";
+	      content.style.overflow = "scroll";
+	      content.style.borderBottom = "2px solid #81a2b3";
+	      content.style.borderLeft = "2px solid #81a2b3";
+	      content.style.borderRight = "2px solid #81a2b3";
+	    } 
+	  });
+	}
+</script>
