@@ -26,5 +26,6 @@ Features:
 **Visuals (just for fun)**
 
 - A <a href="https://fitzpk.github.io/SongRecommendationEngine/artistnetwork.html">D3 visualization</a> was created with the concept that user's should be able to see how their recommended artists are connected.
+- A simple <a href="https://public.tableau.com/profile/kevin8018#!/vizhome/SRE_Treemap/TreemapStory">tableau story</a> using treemaps was created to visualize the recommendation reach artists have in total and per song. This gives us a sense of who the most recommended artists are and therefore have the most reach in the database.
 
 
