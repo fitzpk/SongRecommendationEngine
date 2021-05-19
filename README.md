@@ -1,7 +1,6 @@
 # Song Recommendation Engine
 
 Created in collaboration with Ken Duthie
-------------------------------------------------
 
 This project utilizes the Turicreate Python library to create an item-content similarity recommender. To train and test the recommender, a local library of 10,005 songs was used. Audio metrics and metadata information for each song was then extracted using librosa and tiny tag respectively. For a full list of features, please see below.
 
@@ -20,6 +19,8 @@ Features:
 - spectral bandwidth
 - spectral rolloff
 - chroma frequency
+
+
 
 
 **Visuals (just for fun)**
