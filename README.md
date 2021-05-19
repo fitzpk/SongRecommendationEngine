@@ -22,7 +22,7 @@ Features:
 
 
 <br>
-**Visuals (just for fun)** <br>
+**Visuals (just for fun)**
 A <a href="https://fitzpk.github.io/SongRecommendationEngine/artistnetwork.html">D3 visualization</a> was created with the concept that user's should be able to see how their recommended artists are connected.
 
 
